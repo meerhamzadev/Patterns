@@ -21,7 +21,7 @@ Make sure you read the [contributing guidelines](https://github.com/meerhamzadev
 - MIT © [Meer Hamza](https://github.com/meerhamzadev)
 - [Code of Conduct](https://github.com/meerhamzadev/Patterns/blob/main/code-of-conduct.md)
 
-## AUTHOR ⚡
+## ⚡ AUTHOR
 
 🙋🏻‍♂️ Yo! It's Meer, a junior year CS undergrad. Let's get connected
 
